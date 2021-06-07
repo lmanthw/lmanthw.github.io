@@ -1,1 +1,1 @@
-# lmanthw.githug.io
+# lmanthw.github.io
